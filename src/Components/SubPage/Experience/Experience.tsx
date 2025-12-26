@@ -32,6 +32,21 @@ const Experience = () => {
                     </Grid>
                 </Grid>
                 <Grid container item xs={12} gap={10} justifyContent={"center"} alignItems={"center"}>
+                            <ExperienceCard
+                        job={1}
+                        url={"assets/experience/nrj.png"}
+                        deg={10}
+                        title={"Freelance : Web Developer"}
+                        company={"Solu2Web"}
+                        date={"2025"}
+                        description={"I am the architect and lead developer of end-to-end E-commerce projects using Symfony, React.js, and Next.js.\n\n" +
+                            "Design and optimization of modern web applications focused on performance and scalability. Full delivery system integration via Mondial Relay API, improving logistics efficiency and customer experience.\n\n" +
+                            "Deployment of advanced payment solutions with Stripe Connect Custom, securing and automating multi-user financial flows in compliance with EU standards.\n\n" +
+                            "Refactoring and evolution of existing architectures based on open-source solutions to strengthen C2C/B2C applications. Web-to-mobile conversion delivering high-performance applications.\n\n" +
+                            "Key clients include major industry partners: NRJ and EDF. Deployment of MCP tools and A2A protocols to query and leverage internal services for enterprise solutions.\n\n" +
+                            "Continuous training in AI innovations (Gemini 3, Banana, MCP, N8N automation tools)."
+                        }
+                    />
                     <ExperienceCard
                         job={1}
                         url={"assets/experience/dav.jpg"}

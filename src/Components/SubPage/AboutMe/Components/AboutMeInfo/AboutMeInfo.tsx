@@ -31,8 +31,7 @@ const AboutMeInfo = () => {
                             fueled
                             by a deep belief in the power of technological progress to transform the
                             world. <br/><br/>
-                            <strong>Currently honing my skills and gaining valuable experience</strong>, I work as an
-                            apprentice
+                            <strong>Currently honing my skills and gaining valuable experience</strong>, I worked as software engineer intern
                             back-end
                             developer at Davidson Consulting.
                             <br/><br/>

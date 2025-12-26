@@ -74,13 +74,14 @@ const App = () => {
                 <Grid item xs={12}>
                     <AboutMe/>
                 </Grid>¬
-                <Education/>
+                
                 <Grid item xs={12} justifyContent={"center"} alignItems={"center"}>
                     <Experience/>
                 </Grid>
                 <Grid item xs={12}>
                     <PersonalProject/>
                 </Grid>
+                <Education/>
                 <Grid item xs={12}>
                     <Footer/>
                 </Grid>
